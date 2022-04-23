@@ -57,14 +57,14 @@
   background-color: #4682b4;
   grid-area: main;
   display: grid;
-  grid-template: 15 vh auto / 1fr;
+  grid-template: 15vh auto / 1fr;
   align-content: center;
   padding: 5px 50px;
 }
 
 .main-container {
   display: grid;
-  grid-template: repeat(5, 90px) / repeat(4, 1fr);
+  grid-template: repeat(5, 80px) / repeat(4, 1fr);
   grid-gap: 20px;
 }
 
