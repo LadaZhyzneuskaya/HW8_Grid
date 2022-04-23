@@ -4,6 +4,11 @@
   box-sizing: border-box;
 }
 
+.jeneral-container {
+  display: grid;
+  justify-items: center;
+}
+
 .header {
   background-color: #8fbc8f;
 }
