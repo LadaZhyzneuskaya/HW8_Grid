@@ -30,6 +30,8 @@
 .header {
   background-color: #8fbc8f;
   grid-area: header;
+  display: grid;
+  grid-template: 60px auto / auto;
 }
 
 .main {
