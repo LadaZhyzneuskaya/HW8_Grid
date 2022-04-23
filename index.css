@@ -61,6 +61,16 @@
   align-content: center;
 }
 
+.div {
+  background-color: #3333b6;
+  display: grid;
+  grid-template: auto / auto;
+  justify-items: center;
+  align-items: center;
+  color: #f0f8ff;
+  font-size: 50px;
+}
+
 .footer {
   background-color: #87ceeb;
   grid-area: footer;
