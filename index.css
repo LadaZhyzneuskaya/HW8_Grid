@@ -56,6 +56,9 @@
 .main {
   background-color: #4682b4;
   grid-area: main;
+  display: grid;
+  grid-template: 15 vh auto / 1fr;
+  align-content: center;
 }
 
 .footer {
