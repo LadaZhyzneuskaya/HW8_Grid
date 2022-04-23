@@ -9,6 +9,12 @@
   justify-items: center;
 }
 
+.container {
+  width: 100%;
+  max-width: 1400px;
+  min-height: 100vh;
+}
+
 .header {
   background-color: #8fbc8f;
 }
