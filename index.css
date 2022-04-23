@@ -41,6 +41,16 @@
   justify-items: center;
 }
 
+.button {
+  background-color: #f4f4f4;
+  height: 42px;
+  width: auto;
+  font-size: 20px;
+  padding: 10px 18px;
+  border: none;
+  border-radius: 30px;
+}
+
 .main {
   background-color: #4682b4;
   grid-area: main;
