@@ -61,6 +61,12 @@
   align-content: center;
 }
 
+.main-container {
+  display: grid;
+  grid-template: repeat(5, 90px) / repeat(4, 1fr);
+  grid-gap: 20px;
+}
+
 .div {
   background-color: #3333b6;
   display: grid;
