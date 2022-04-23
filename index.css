@@ -13,6 +13,11 @@
   width: 100%;
   max-width: 1400px;
   min-height: 100vh;
+  display: grid;
+  grid-template: auto 1fr 60px / 1fr;
+  grid-template-areas: "header"
+                        "main"
+                        "footer";
 }
 
 .header {
