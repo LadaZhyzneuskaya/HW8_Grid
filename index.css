@@ -34,6 +34,13 @@
   grid-template: 60px auto / auto;
 }
 
+.nav-container {
+  list-style-type: none;
+  display: grid;
+  grid-template: 45px / repeat(auto-fit, minmax(160px, 1fr));
+  justify-items: center;
+}
+
 .main {
   background-color: #4682b4;
   grid-area: main;
