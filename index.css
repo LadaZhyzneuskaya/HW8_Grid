@@ -20,6 +20,13 @@
                         "footer";
 }
 
+.title {
+  color: #f0f8ff;
+  text-align: center;
+  font-size: 50px;
+  text-transform: uppercase;
+}
+
 .header {
   background-color: #8fbc8f;
 }
