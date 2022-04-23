@@ -29,12 +29,15 @@
 
 .header {
   background-color: #8fbc8f;
+  grid-area: header;
 }
 
 .main {
   background-color: #4682b4;
+  grid-area: main;
 }
 
 .footer {
   background-color: #87ceeb;
+  grid-area: footer;
 }
